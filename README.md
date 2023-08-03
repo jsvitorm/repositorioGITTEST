@@ -110,4 +110,4 @@ Utilizando
 
 # CONCLUSÃO
 
-** Conclui que é muito mais fácil fazer as coisas em Git do que pelo próprio GitHub, acredito que tenham muito mais possibilidades de coisas para serem feitas quando se utiliza Git. Além disso, no mercado de trabalho se é utilizado o Git, então já estamos nos preparando.
+** Conclui que é muito mais fácil fazer as coisas em Git do que pelo próprio GitHub, acredito que tenham muito mais possibilidades de coisas para serem feitas quando se utiliza Git. Além disso, no mercado de trabalho se é utilizado o Git, então já estamos nos preparando. **
