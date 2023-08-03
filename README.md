@@ -107,5 +107,23 @@ Utilizando
 
 `git branch -a` Podemos ver todos os branchs remotos e locais existentes. 
 
+![Seleção de branch](/imgsREADME/branchRep.png)
+
+Para poder selecionar um branch no qual queremos trabalhar, basta digitar o codigo 
+
+`git checkout <nome do branch>`
+
+![Seleção de branch](/imgsREADME/checkout.png)
+
+Agora ja podemos trabalhar nessa branch localmente
+
+
+### 7. Push Branch to GitHub
+
+Para dar push em um branch para o GitHub devemos primeiramente criar uma nova branch localmente
+
+Basta digitarmos o código
+
+`git checkout <nome do branch>`
 
 # CONCLUSÃO
